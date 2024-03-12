@@ -4,8 +4,8 @@ Ladies and gentlemen, prepare to be amazed by the most groundbreaking piece of s
 
 ## Features
 
-- Supports a mind-boggling range of numbers from 1 to 255
-- Blazingly fast parity checking algorithm that can handle even the largest of integers (within 8 bits)
+- Supports a mind-boggling range of numbers from 1 to 65535
+- Blazingly fast parity checking algorithm that can handle even the largest of integers (within 16 bits)
 - Utilizes cutting-edge algorithms to determine the oddness or evenness of a number with unparalleled accuracy
 - Boasts an incredibly user-friendly interface, requiring only a single command-line argument
 - Demonstrates the power and efficiency of Rust, the programming language of the future
