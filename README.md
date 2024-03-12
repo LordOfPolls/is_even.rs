@@ -2,6 +2,8 @@
 
 Ladies and gentlemen, prepare to be amazed by the most groundbreaking piece of software ever created: The Ultimate Odd/Even Determinator! This Rust program is the result of countless hours of research, development, and pure genius. It is designed to solve one of the most complex and challenging problems in the history of computer science: determining whether a number is odd or even.
 
+**✨✨ Now supports negative numbers ✨✨**
+
 ## Features
 
 - Supports a mind-boggling range of numbers from 1 to 65535
